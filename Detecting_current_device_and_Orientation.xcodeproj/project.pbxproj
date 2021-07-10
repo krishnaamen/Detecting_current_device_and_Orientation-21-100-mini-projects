@@ -13,6 +13,7 @@
 		FA24F2CD2698D686004BB4FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA24F2CB2698D686004BB4FF /* Main.storyboard */; };
 		FA24F2CF2698D687004BB4FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA24F2CE2698D687004BB4FF /* Assets.xcassets */; };
 		FA24F2D22698D687004BB4FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA24F2D02698D687004BB4FF /* LaunchScreen.storyboard */; };
+		FA24F2DB2698E62F004BB4FF /* Screenshot 2021-07-09 at 08.50.51.png in Resources */ = {isa = PBXBuildFile; fileRef = FA24F2DA2698E62F004BB4FF /* Screenshot 2021-07-09 at 08.50.51.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA24F2CE2698D687004BB4FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA24F2D12698D687004BB4FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA24F2D32698D687004BB4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA24F2DA2698E62F004BB4FF /* Screenshot 2021-07-09 at 08.50.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-07-09 at 08.50.51.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FA24F2C92698D686004BB4FF /* ViewController.swift */,
 				FA24F2CB2698D686004BB4FF /* Main.storyboard */,
 				FA24F2CE2698D687004BB4FF /* Assets.xcassets */,
+				FA24F2DA2698E62F004BB4FF /* Screenshot 2021-07-09 at 08.50.51.png */,
 				FA24F2D02698D687004BB4FF /* LaunchScreen.storyboard */,
 				FA24F2D32698D687004BB4FF /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA24F2D22698D687004BB4FF /* LaunchScreen.storyboard in Resources */,
+				FA24F2DB2698E62F004BB4FF /* Screenshot 2021-07-09 at 08.50.51.png in Resources */,
 				FA24F2CF2698D687004BB4FF /* Assets.xcassets in Resources */,
 				FA24F2CD2698D686004BB4FF /* Main.storyboard in Resources */,
 			);
